@@ -1,3 +1,11 @@
+#Description of The Assessment
+1. The user needs to Login to the system or signup by giving details such as address.
+2. Once login the the user can navigate to Check all Devices & Locations || Check all Devices based on one Location || Add a device
+3. A user can also delete a particular device by clicking the delete button under each device info
+#WARNING!!!!  Don't navigate untill login or signup
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
